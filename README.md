@@ -21,14 +21,14 @@ Extract and Process: The application extracts text, chunks it, and processes it 
 Ask Questions: Users ask questions, and the app searches through the document using vector embeddings to fetch and provide accurate answers.
 
 # Files in the Repository
-background.py: Handles the background image setup for the Streamlit interface.
-chunks.py: Contains the logic for chunking the extracted text.
-gemini.py: Manages the AI-based question answering using Google Generative AI and FAISS.
-pdf_reader.py: Extracts text from PDF files.
-prompt.py: Defines the prompt template for generating summaries.
-vector_embeddings.py: Creates and manages the FAISS vector store for text embeddings.
-FinSightapp.py: The main Streamlit application script.
-Britannia-Analyst_Call_Transcript_Q1_2023_24 pdf: Sample financial call transcript used for testing.
+- **background.py**: Handles the background image setup for the Streamlit interface.
+- **chunks.py**: Contains the logic for chunking the extracted text.
+- **gemini.py**: Manages the AI-based question answering using Google Generative AI and FAISS.
+- **pdf_reader.py**: Extracts text from PDF files.
+- **prompt.py**: Defines the prompt template for generating summaries.
+- **vector_embeddings.py**: Creates and manages the FAISS vector store for text embeddings.
+- **FinSightapp.py**: The main Streamlit application script.
+- **Britannia-Analyst_Call_Transcript_Q1_2023_24 pdf**: Sample financial call transcript used for testing.
 
 # Future Enhancements
 Support for Multiple File Formats: Extend support to other document formats.
