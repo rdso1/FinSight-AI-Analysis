@@ -36,6 +36,5 @@ Customizable Summary output: Allow users to tailor the summary output according 
 Improved UI/UX: Enhance the user interface for better user experience.
 Real-Time Analysis: Implement real-time processing and analysis capabilities.
 
-#Acknowledgments
+# Acknowledgments
 This project was driven by the desire to simplify and enhance financial analysis. I extend my gratitude to the creators of the tools and libraries that were integral to the development of this application.
-
